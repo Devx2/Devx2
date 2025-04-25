@@ -38,10 +38,4 @@
 
 
 
-## 📈 กราฟการมีส่วนร่วม
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Devx2&theme=react-dark)
-
----
-
 ⭐️ จาก [Devx2](https://github.com/Devx2)
