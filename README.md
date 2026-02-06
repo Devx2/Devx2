@@ -1,191 +1,196 @@
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=DevX2&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Full%20Stack%20Developer%20|%20Code%20Architect&descAlignY=55&descSize=20" width="100%"/>
+</h1>
+
 <div align="center">
-
-# 💫 DevX2 - Full Stack Developer
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Welcome%20to%20My%20Digital%20Space&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
-
-### 🚀 Building the Future, One Line of Code at a Time
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer+%7C+Cloud+Architect;Passionate+About+Clean+Code+%26+Innovation;Turning+Coffee+into+Scalable+Solutions+☕;Open+Source+Contributor+%7C+Tech+Enthusiast)](https://git.io/typing-svg)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devx2&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Devx2?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1b27" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Devx2?label=Stars&style=for-the-badge&color=ffd700&labelColor=1a1b27" alt="Stars" />
-</p>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+coding+universe+%F0%9F%8C%8C;Building+scalable+%26+elegant+solutions;Passionate+about+clean+architecture;Always+learning%2C+always+growing+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```typescript
-const devx2: Developer = {
-  name: "DevX2",
-  role: "Full Stack Developer & Cloud Architect",
-  location: "🇹🇭 Thailand",
-  
-  code: {
-    languages: ["JavaScript", "TypeScript", "Python", "Go", "Rust"],
-    frontend: ["React", "Next.js", "Vue.js", "Tailwind CSS", "Framer Motion"],
-    backend: ["Node.js", "Express", "NestJS", "FastAPI", "GraphQL"],
-    mobile: ["React Native", "Flutter"],
-  },
-  
-  infrastructure: {
-    cloud: ["AWS", "Google Cloud", "Azure", "Vercel"],
-    devOps: ["Docker", "Kubernetes", "GitHub Actions", "Terraform"],
-    databases: ["PostgreSQL", "MongoDB", "Redis", "Supabase"],
-  },
-  
-  architecture: ["Microservices", "Event-Driven", "Serverless", "JAMstack"],
-  
-  currentFocus: "Building AI-powered applications with cutting-edge tech",
-  philosophy: "The best code is no code. The second best is clean, maintainable code.",
-  
-  askMeAbout: [
-    "Web Development",
-    "System Design",
-    "Cloud Architecture",
-    "Performance Optimization"
-  ],
-  
-  funFact: "I debug with console.log and I'm not ashamed 🐛"
-};
+### 👋 Hey there! I'm DevX2
+
+🎯 **Full Stack Developer** passionate about crafting exceptional digital experiences
+
+🔭 Currently working on **AI-powered web applications**
+
+🌱 Learning **Rust** and **Advanced System Design**
+
+💬 Ask me about **React, Node.js, Cloud Architecture**
+
+⚡ Fun fact: **I turn coffee into code** ☕ → 💻
+
+📍 Based in **Thailand 🇹🇭**
+
+<br clear="right"/>
+
+---
+
+## 🎨 Tech Arsenal
+
+<details open>
+<summary><b>💻 Languages</b></summary>
+<br>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>☁️ DevOps & Cloud</b></summary>
+<br>
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+</details>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devx2&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Devx2&theme=radical&hide_border=true&background=0D1117&stroke=00f7ff&ring=00f7ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=00f7ff&currStreakLabel=00f7ff&sideLabels=00f7ff&dates=8b949e" />
+</div>
+
+<div align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devx2&custom_title=Contribution%20Activity&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devx2&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&langs_count=8" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Devx2&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Project Alpha
+A revolutionary web application built with cutting-edge technologies
+<br><br>
+**Tech Stack:** React • Node.js • PostgreSQL
+<br>
+![Stars](https://img.shields.io/github/stars/Devx2/project-name?style=social)
+![Forks](https://img.shields.io/github/forks/Devx2/project-name?style=social)
+
+</td>
+<td width="50%">
+
+### ⚡ Project Beta  
+High-performance microservices architecture
+<br><br>
+**Tech Stack:** Go • Docker • Kubernetes
+<br>
+![Stars](https://img.shields.io/github/stars/Devx2/another-project?style=social)
+![Forks](https://img.shields.io/github/forks/Devx2/another-project?style=social)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💼 Professional Journey
+
+```mermaid
+graph LR
+    A[🎓 Started Coding] --> B[💻 Junior Dev]
+    B --> C[🚀 Full Stack Dev]
+    C --> D[☁️ Cloud Architect]
+    D --> E[🎯 Current: Senior Developer]
+    
+    style A fill:#00f7ff,stroke:#00f7ff,color:#000
+    style E fill:#00f7ff,stroke:#00f7ff,color:#000
 ```
-
----
-
-## 🛠️ Tech Stack
-
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
-<br/>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend Development</b></summary>
-<br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br/>
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Database & Tools</b></summary>
-<br/>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</details>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devx2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devx2&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&hide=html,css"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devx2&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=00d9ff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=8b949e" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devx2&custom_title=Contribution%20Graph&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Devx2&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
-</div>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Devx2/project-name">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devx2&repo=project-name&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" />
-</a>
-
-<a href="https://github.com/Devx2/another-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Devx2&repo=another-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" />
-</a>
-
-</div>
 
 ---
 
 ## 📈 Coding Activity
 
-<div align="center">
-  
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-</div>
-
----
-
-## 💭 Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
 <div align="center">
   
-![Snake animation](https://github.com/Devx2/Devx2/blob/output/github-contribution-grid-snake-dark.svg)
+**🌟 "Code is poetry written in logic" 🌟**
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/yourprofile)](https://twitter.com/yourprofile)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:your.email@example.com)
+
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Devx2&label=Profile%20Views&color=00f7ff&style=for-the-badge)](https://github.com/Devx2)
 
 </div>
 
@@ -193,12 +198,20 @@ const devx2: Developer = {
 
 <div align="center">
 
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 💡 Random Dev Quote
 
-### ⭐ Star some repositories if you find them interesting!
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&animation=twinkling" width="100%"/>
+</div>
 
-**Thanks for visiting! Have a great day! 🚀**
+---
+
+<div align="center">
+
+**⭐ From [DevX2](https://github.com/Devx2) with 💙**
+
+### Thanks for visiting! Let's build something amazing together! 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
